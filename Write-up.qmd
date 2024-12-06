@@ -8,6 +8,8 @@ execute:
   echo: false
 ---
 
+test test test test
+
 ### Group Members:
 * Toshiyuki Kindaichi | Section 2 | GitHub: Toshiyuki-K
 
@@ -35,6 +37,8 @@ Annual borrowing in Africa (~$80 billion) is largely offset by repayments, limit
 ![](pictures/2_Debt_2.png){width=55% fig-align="right"}
 
 * Interest Payments on External Debt (2022):
+
+
 
 Countries such as Somalia, Mozambique, Angola, and Zambia experience the heaviest burdens (>5% of GNI), driven by factors including political instability and reliance on commodity exports.
 
