@@ -11,7 +11,7 @@ execute:
 test test test test
 
 ### Group Members:
-* Toshiyuki Kindaichi | Section 2 | GitHub: Toshiyuki-K
+* Toshiyuki Yamada | Section 2 | GitHub: Toshiyuki-K
 
 * Kohei Inagaki | Section: 2 | GitHub: Kohei1208
 
